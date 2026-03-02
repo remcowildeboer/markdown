@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef141c1ed50c7ac4",
+        "id": "7a155588640a3284",
         "type": "tabs",
         "children": [
           {
-            "id": "eaa3bf0f6cdf6507",
+            "id": "fd50d41779b1d723",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/Enterprise Architecture Foundation with the TOGAF Standard/Introduction to Enterprise Architecture.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction to Enterprise Architecture"
             }
           }
         ]
@@ -176,6 +180,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "eaa3bf0f6cdf6507",
-  "lastOpenFiles": []
+  "active": "fd50d41779b1d723",
+  "lastOpenFiles": [
+    "Udemy/Enterprise Architecture Foundation with the TOGAF Standard/Hoofdstuk 1.md",
+    "Udemy/Enterprise Architecture Foundation with the TOGAF Standard/Architecture Development Method.md",
+    "Untitled.md"
+  ]
 }
